@@ -1,0 +1,63 @@
+.general{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 70vh;
+}
+
+.icon{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.search{
+    background-color: gainsboro;
+    margin: 5px;
+}
+
+.motto{
+    margin: 0px;
+    text-align: center;
+}
+
+.nav{
+
+    margin: 5px;
+}
+
+.n1{
+    background-color: #7EE5DA;
+    float: left;
+    width: 40%;
+    height: 75px;
+    margin-right: 0.5%;
+    margin-top: 0px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.n2{
+    background-color: #70CCC2;
+    float: left;
+    width: 19%;
+    height: 80px;
+    margin-top: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.n3{
+    background-color: #62B3AA;
+    float: left;
+    width: 40%;
+    height: 85px;
+    margin-left: 0.5%;
+    margin-top: 0px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.copy{
+    text-align: center;
+}
