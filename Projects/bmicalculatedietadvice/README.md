@@ -1,4 +1,4 @@
-### :tada: <a href="(https://bmicalculatedietadvice.vercel.app)/">Live Project</a> :tada:
+### :tada: <a href="[https://bmicalculatedietadvice.vercel.app)](https://bmicalculatedietadvice.vercel.app)/">Live Project</a> :tada:
 
 # Getting Started with Create React App
 
