@@ -24,7 +24,7 @@ const Header = () => {
         <div className="product-option">
           <span className="product-option__text">Sırala</span>
           <select onChange={handleClick} className="product-option__select">
-            <option value>Select</option>
+            <option value>Seç</option>
             <option value="lowest">Yüksek fiyattan düşük fiyata</option>
             <option value="highest">Düşük fiyattan Yüksek fiyata</option>
           </select>

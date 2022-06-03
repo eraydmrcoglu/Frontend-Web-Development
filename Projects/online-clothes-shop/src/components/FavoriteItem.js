@@ -23,13 +23,13 @@ const FavoriteItem = (props) => {
       />
       <div className="product-item__price">
         <span className="product-item__price--title">{product.title}</span>
-        <span className="product-item__price--count">{product.price} $</span>
+        <span className="product-item__price--count">{product.price} ₺</span>
         <Button
           onClick={() => handleBasket(product)}
           className="product-item__price--button"
           value={product.id}
         >
-          Buy Now
+          Şimdi Satın Al
         </Button>
         <Button
           red
@@ -37,7 +37,7 @@ const FavoriteItem = (props) => {
           className="product-item__price--button"
           value={product.id}
         >
-          Remove
+          Sil
         </Button>
       </div>
     </div>

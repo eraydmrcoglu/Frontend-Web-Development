@@ -18,7 +18,7 @@ const Buy = () => {
       )}
       <div className="buy__content">
         <div className="buy__content--header">
-          <h2>Basket</h2>
+          <h2>Sepetiniz</h2>
         </div>
         <div className="buy__content--main">
           {basket.map((item, index) => (
@@ -27,10 +27,10 @@ const Buy = () => {
         </div>
         <div className="buy__content--footer">
           <div className="buy-total">
-            <h2>SUBTOTAL</h2>
+            <h2>Toplam Tutar</h2>
             <span>$ {totalCount.toFixed(2)}</span>
           </div>
-          <button className="buy-button">CHECKOUT</button>
+          <button className="buy-button">Satın Al</button>
         </div>
       </div>
     </div>
